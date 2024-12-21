@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-llms
+langchain-embeddings
+streamlit
+requests
+pydantic
